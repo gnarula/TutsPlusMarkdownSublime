@@ -10,7 +10,7 @@ Install `misaka` system-wide using pip
 
     sudo pip install misaka
 
-Then clone this repo in Packages directory. The default key binding for converting the current file to HTML is `Ctrl+Alt+M`
+Then clone this repo in Packages directory. The default key binding for converting the current file to HTML is `Ctrl+Alt+m`
 
 __Note__: This plugin has only been tested on OS X build of Sublime Text 2
 
